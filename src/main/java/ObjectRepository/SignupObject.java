@@ -6,10 +6,10 @@ public class SignupObject {
 		public static By close_add=By.cssSelector(".fancybox-item.fancybox-close");
 		public static By Others = By.xpath("//p[text()='Others']");
 		
-		public static By Select_item = By.cssSelector(".product-info>h2>a[title='Project Scoping Powerpoint Presentation Slides']");
+	        public static By Select_item = By.cssSelector(".product-info>h2>a[title='Project Scoping PowerPoint Presentation Slides |Project Scoping PPT | Project Scoping Presentation']");
+
 		
-		
-		public static By Complete_desk=By.xpath("//p[text()='Complete Decks']");
+	        public static By Complete_desk=By.xpath("//p[text()='Complete Decks']");
 	
 		public static By Complete_All=By.cssSelector("#mega-3 > li:nth-child(4) > div > ul > li:nth-child(1) > a");
 		
